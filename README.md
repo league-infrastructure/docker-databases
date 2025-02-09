@@ -1,5 +1,7 @@
-# docker-compose-mongodb
-docker compose mongodb
+# Docker Databases Compose Stack
+
+
+A single stack for running multiple databases in docker containers.
 
 # run it
 ````bash
